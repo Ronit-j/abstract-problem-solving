@@ -1,0 +1,9 @@
+[project]
+name = "abstract-problem-solving"
+version = "0.1.0"
+description = "A formal framework for domain-independent abstract problem solving"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest"]
